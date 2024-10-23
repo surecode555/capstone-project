@@ -27,7 +27,7 @@ public class App {
 
 		// 1. Open the URL
 		// driver.get("http://13.58.166.105:8080/addressbook-2.0/");
-		driver.get("http://3.23.105.112:8081/contact.html");
+		driver.get("http://18.116.112.116:8081/contact.html");
 		// invoke implicit wait
 		driver.manage().timeouts().implicitlyWait(Duration.ofMillis(1000));
 
